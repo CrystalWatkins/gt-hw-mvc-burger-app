@@ -23,18 +23,18 @@ This is a homework requirement for GT Full Stack Flex Program. This node express
 * Copy github repo and clone to local computer
 
 
-[Link to Github Repo](#)
+[Link to Github Repo](https://github.com/CrystalWatkins/gt-hw-mvc-burger-app)
  
-[Link to Heroku ](#)
+[Link to Heroku ](https://evening-ravine-28370.herokuapp.com/)
 
 
 ## Usage 
 
 This Node Express file uses best practices for Handlebars and MVC.
 
-[Link to Github Repo](#).
+[Link to Github Repo](https://github.com/CrystalWatkins/gt-hw-mvc-burger-app).
  
-[Link to Video Website](#).
+[Link to Video Website](https://evening-ravine-28370.herokuapp.com/).
 
 ![Photo 1](public/assets/img/webpage.png)
 
