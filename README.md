@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is a homework requirement for GT Full Stack Flex Program. This mySQL webpage is designed to create an employee database that combines three different tables to be manipulated and changed by the user for the specific needs of a company. You can assign an employee to a different department, get information about specific data within your company, add different aspects to the company and delete employee information. 
+This is a homework requirement for GT Full Stack Flex Program. This node express burger app and webpage is designed to utilize server side rendering using MVC. By using handlebars we were asked to create a directory structure for this homework which was followed exactly as asked. When you open the website, you are able to see burgers pop up. You can then add a burger that you want to eat. It will then put it in the "Burgers To Be Eaten" column, where you can choose to "eat" the burger with the touch of a button and then it will move to the "devoured" column. From there, you can say you are still hungry and it will move the burger back to the "Burgers To Be Eaten" column!
 
 
 ## Table of Contents
@@ -18,31 +18,30 @@ This is a homework requirement for GT Full Stack Flex Program. This mySQL webpag
 
 ## Installation
 
-* Copy EmployeeSchema.sql in your local mySQL workbench and query the database
-* In the github repo link, clone the repo and install on your local VS code
-* Run npm install from package.json
-* Run node employee.js and follow the prompts
+* Open up Heroku Webpage and View App
+
+* Copy github repo and clone to local computer
 
 
-[Link to Github Repo](https://crystalwatkins.github.io/gt-hw-my-sql-employee-tracker/.)
+[Link to Github Repo](#)
  
-[Link to Video Website](https://drive.google.com/file/d/1Xy5LKlEEk7d3nxKSND_KHRTo8ax-7uxZ/view)
+[Link to Heroku ](#)
 
 
 ## Usage 
 
-This Javascript file uses best practices for Node Express.
+This Node Express file uses best practices for Handlebars and MVC.
 
-[Link to Github Repo](https://crystalwatkins.github.io/gt-hw-my-sql-employee-tracker/.).
+[Link to Github Repo](#).
  
-[Link to Video Website](https://drive.google.com/file/d/1Xy5LKlEEk7d3nxKSND_KHRTo8ax-7uxZ/view).
+[Link to Video Website](#).
 
-![Photo 1](terminal.png)
-![Photo 2](terminal2.png)
+![Photo 1](public/assets/img/webpage.png)
+
 
 ## Credits
 
-This was a SQL app created using mySQL and mySQL Workbench completed as a homework for the Georgia Tech, FullStack Flex Program.
+This was a node express app created using mySQL, mySQL Workbench, node express, ORM, handlebars, and file structuring completed as a homework for the Georgia Tech, FullStack Flex Program.
 
 ## MIT_License
 

@@ -16,7 +16,8 @@ li {
   }
   h1 {
     text-align: center;
-    font: 'Modak';
+    font-family: 'Modak', cursive;
+    font-size: 60px;
     color: red;
   }
   #addBurgerDiv {
