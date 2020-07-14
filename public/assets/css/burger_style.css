@@ -8,4 +8,24 @@ li {
     margin: 5px;
     background: #faebd7;
   }
-  
+  img {
+    width: 100%;
+    height: 100%;
+    padding: 1%;
+    margin: 1%;
+  }
+  h1 {
+    text-align: center;
+    font: 'Modak';
+    color: red;
+  }
+  #addBurgerDiv {
+    text-align: center;
+  }
+  #burgersNotEatenDiv {
+    text-align: center;
+  }
+
+  #burgersEatenDiv {
+    text-align: center;
+  }
